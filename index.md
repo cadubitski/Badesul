@@ -1,11 +1,11 @@
 <!-- O Trecho abaixo é para redimencionar o cabeçalho -->
 <style>
   .page-header {
-    padding: 1rem 1rem !important;
+    padding: 1rem 1rem 1rem 1rem !important;
     margin-bottom: 0px !important;
   }
   .main-content {
-    padding-top: 1rem !important;
+    padding-top: 1rem 1rem !important;
   }
 </style>
 
