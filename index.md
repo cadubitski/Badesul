@@ -3,7 +3,7 @@
 Bem-vindo ao nosso portal de documentos e links rápidos.
 
 ## 📁 Manuais e Procedimentos
-* **VPN:** [Clique aqui para ver o manual de acesso]([https://link-do-seu-manual.com](https://gemini.google.com/gem/245dfc56d0fa?ts=6971292b))
+* **VPN:** [Clique aqui para ver o manual de acesso](https://gemini.google.com/gem/245dfc56d0fa?ts=6971292b)
 * **Totvs:** Procedimentos para abertura de chamados.
 
 ## 🔗 Links Úteis
