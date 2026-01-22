@@ -28,9 +28,9 @@ Bem-vindo ao nosso portal de documentos e links rápidos.
 * [Protheus de Validação da Folha](http://badesul134150.protheus.cloudtotvs.com.br:2352/webapp/)
 * [Protheus de Atendimento BackOffice](https://badesul173428.protheus.cloudtotvs.com.br:4010/webapp/)
 
-<a href="https://badesul133883.protheus.cloudtotvs.com.br:4010/webapp/" target="_blank"> Protheus de Produção</a>
-<a href="http://badesul134150.protheus.cloudtotvs.com.br:2352/webapp/" target="_blank"> Protheus de Validação da Folha</a>
-<a href="https://badesul173428.protheus.cloudtotvs.com.br:4010/webapp/" target="_blank"> Protheus de Atendimento BackOffice</a>
+* <a href="https://badesul133883.protheus.cloudtotvs.com.br:4010/webapp/" target="_blank"> Protheus de Produção</a>
+* <a href="http://badesul134150.protheus.cloudtotvs.com.br:2352/webapp/" target="_blank"> Protheus de Validação da Folha</a>
+* <a href="https://badesul173428.protheus.cloudtotvs.com.br:4010/webapp/" target="_blank"> Protheus de Atendimento BackOffice</a>
 
 
 <!-- 
